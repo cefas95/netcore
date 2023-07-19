@@ -1,0 +1,8 @@
+C:\Users\fabi-\source\repos\netcore\numeroAleatorio\numeroAleatorio\bin\Debug\numeroAleatorio.exe.config
+C:\Users\fabi-\source\repos\netcore\numeroAleatorio\numeroAleatorio\bin\Debug\numeroAleatorio.exe
+C:\Users\fabi-\source\repos\netcore\numeroAleatorio\numeroAleatorio\bin\Debug\numeroAleatorio.pdb
+C:\Users\fabi-\source\repos\netcore\numeroAleatorio\numeroAleatorio\obj\Debug\numeroAleatorio.csproj.AssemblyReference.cache
+C:\Users\fabi-\source\repos\netcore\numeroAleatorio\numeroAleatorio\obj\Debug\numeroAleatorio.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabi-\source\repos\netcore\numeroAleatorio\numeroAleatorio\obj\Debug\numeroAleatorio.csproj.CoreCompileInputs.cache
+C:\Users\fabi-\source\repos\netcore\numeroAleatorio\numeroAleatorio\obj\Debug\numeroAleatorio.exe
+C:\Users\fabi-\source\repos\netcore\numeroAleatorio\numeroAleatorio\obj\Debug\numeroAleatorio.pdb
