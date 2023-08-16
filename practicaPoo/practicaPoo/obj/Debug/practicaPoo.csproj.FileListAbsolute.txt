@@ -1,0 +1,8 @@
+C:\Users\fabi-\source\repos\netcore\practicaPoo\practicaPoo\bin\Debug\practicaPoo.exe.config
+C:\Users\fabi-\source\repos\netcore\practicaPoo\practicaPoo\bin\Debug\practicaPoo.exe
+C:\Users\fabi-\source\repos\netcore\practicaPoo\practicaPoo\bin\Debug\practicaPoo.pdb
+C:\Users\fabi-\source\repos\netcore\practicaPoo\practicaPoo\obj\Debug\practicaPoo.csproj.AssemblyReference.cache
+C:\Users\fabi-\source\repos\netcore\practicaPoo\practicaPoo\obj\Debug\practicaPoo.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabi-\source\repos\netcore\practicaPoo\practicaPoo\obj\Debug\practicaPoo.csproj.CoreCompileInputs.cache
+C:\Users\fabi-\source\repos\netcore\practicaPoo\practicaPoo\obj\Debug\practicaPoo.exe
+C:\Users\fabi-\source\repos\netcore\practicaPoo\practicaPoo\obj\Debug\practicaPoo.pdb
